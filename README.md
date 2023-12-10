@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com back-end
-- 🌱 Estudando Java
+- 🌱 Estudando Java e Deep lerning
 - 📫 contate-me no email: melowalmir123@gmail.com
 - 😄 Pronouns: ele/dele
 
