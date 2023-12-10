@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. .</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Java I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. I am currently engaged with deep learning projects.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Wal221&theme=radical&mode=weekly" />
