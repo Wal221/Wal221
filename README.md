@@ -1,11 +1,13 @@
 ### Ola , sou o Walmir Cardoso 😄
 
 
-- 💻 Backend developer node js
+- 💻 Backend Developer node js
 - 🌱 Estudando Java e Deep lerning
 - 📫 contate-me no email: melowalmir123@gmail.com
 - 😄 Pronouns: ele/dele
 
+###  💼 Experiência
+- Estagiário de Node.js com AWS Cloud Context 
 
 
 &nbsp;&nbsp;&nbsp;
