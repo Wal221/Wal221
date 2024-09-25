@@ -1,7 +1,7 @@
 ### Ola , sou o Walmir Cardoso 😄
 
 
-- 🔭 Atualmente trabalho com back-end
+- 💻 Backend developer node js
 - 🌱 Estudando Java e Deep lerning
 - 📫 contate-me no email: melowalmir123@gmail.com
 - 😄 Pronouns: ele/dele
